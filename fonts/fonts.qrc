@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/fonts">
+        <file>NotoSans-Regular.ttf</file>
+        <file>NotoSansSC-Regular.otf</file>
+    </qresource>
+</RCC>
