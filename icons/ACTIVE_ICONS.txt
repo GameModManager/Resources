@@ -47,3 +47,8 @@ nexusmods
 loverslab
 steam
 moddb
+
+Git source icons (resolved via engine::git_icon_key() from the remote's host,
+assets in vendor/). The source_type is always "git"; only the badge varies:
+github
+git
